@@ -1,0 +1,175 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+/* Navigation Bar  */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+
+.links {
+  margin-left: 40%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+}
+
+/* Introduction and Download Buttons */
+
+
+.intro-message {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 20%;
+  position: absolute;
+}
+
+ .rotated {
+  transform: rotate(25deg);
+}
+
+/* Features Section */
+
+#features {
+  line-height: 1.5;
+  padding: 5%;
+  background-color: #fff;
+  position: relative;
+}
+
+.feature-box {
+  padding: 4.5%;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.features-icon {
+  color: #ef8172;
+  margin: 5% auto;
+}
+
+.features-icon:hover {
+  color: #ff4c68;
+}
+
+.feature-title {
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.feature-subtitle {
+  width: 55%;
+  color: #8f8f8f;
+  margin: auto;
+}
+
+/* Testimonials Section */
+
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+
+.testimonial-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  width: 75%;
+  margin: auto;
+}
+
+.testimonial-image {
+  border-radius: 50%;
+  width: 10%;
+  margin: 40px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Press Section */
+
+#press {
+  background-color: #ef8172;
+  padding: 20px;
+  text-align: center;
+}
+
+.press-logo {
+  margin: 20px 20px 50px;
+  width: 15%;
+}
+
+/* Pricing section */
+
+#pricing {
+  padding: 100px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.pricing-title {
+  font-size: 3rem;
+  font-weight: 900;
+  margin-bottom: 1%;
+}
+
+
+.dog-name {
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.dog-price {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
